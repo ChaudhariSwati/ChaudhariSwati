@@ -27,14 +27,11 @@ Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or An
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudhariSwati&theme=dark&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChaudhariSwati&theme=dracula&no-frame=false&column=4)
+![](https://github-profile-trophy.vercel.app/?username=ChaudhariSwati&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=3)
 
 ## 📌 Featured Projects
-![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Weather-App&theme=dark)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)](https://github.com/ChaudhariSwati/Portfolio)
+[![Weather-App](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Weather-App&theme=dark)](https://github.com/ChaudhariSwati/Weather-App)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/quote?type=horizontal&theme=dracula)
-
----
-[![](https://visitcount.itsvg.in/api?id=ChaudhariSwati&icon=0&color=2)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api/pin?type=horizontal&theme=dracula)
