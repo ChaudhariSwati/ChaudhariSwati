@@ -37,7 +37,7 @@ Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or An
 
 
 ## ✍️ Random Dev Quote
-![Quote](https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChaudhariSwati&icon=0&color=2)](https://visitcount.itsvg.in)
