@@ -33,6 +33,11 @@ Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or An
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)](https://github.com/ChaudhariSwati/Portfolio)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=business-card-generator&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=first-contributions&theme=dark)
+
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api/pin?type=horizontal&theme=dracula)
+![](https://quotes-github-readme.vercel.app/quote?type=horizontal&theme=dracula)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ChaudhariSwati&icon=0&color=2)](https://visitcount.itsvg.in)
