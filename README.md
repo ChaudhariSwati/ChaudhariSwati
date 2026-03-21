@@ -31,7 +31,8 @@ Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or An
 
 ## 📌 Featured Projects
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)](https://github.com/ChaudhariSwati/Portfolio)
-[![Weather-App](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Weather-App&theme=dark)](https://github.com/ChaudhariSwati/Weather-App)
+![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=business-card-generator&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api/pin?type=horizontal&theme=dracula)
