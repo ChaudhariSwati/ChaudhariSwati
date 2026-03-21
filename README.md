@@ -11,8 +11,11 @@ Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or An
 📫 How to reach me: swatidchaudhary17@gmail.com
 ⚡ Fun fact: I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swati-chaudhari-42b21a301/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swatidchaudhary17@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-chaudhari-42b21a301/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swatidchaudhary17@gmail.com)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ChaudhariSwati&icon=0&color=2)](https://visitcount.itsvg.in)
 <!-- Snake Game Repo View -->
 
 <div align="center">
