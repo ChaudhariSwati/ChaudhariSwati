@@ -34,7 +34,7 @@ Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or An
 
 ## 📌 Featured Projects
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)](https://github.com/ChaudhariSwati/Portfolio)
-![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=business-card-generator&theme=dark)
+[![Business Card Generator](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=business-card-generator&theme=transparent)](https://github.com/ChaudhariSwati/business-card-generator)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=first-contributions&theme=dark)
 
