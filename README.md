@@ -33,10 +33,7 @@ Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or An
 ![](https://github-profile-trophy.vercel.app/?username=ChaudhariSwati&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=3)
 
 ## 📌 Featured Projects
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)](https://github.com/ChaudhariSwati/Portfolio)
-[![Business Card Generator](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=business-card-generator&theme=transparent)](https://github.com/ChaudhariSwati/business-card-generator)
-![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=Portfolio&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=first-contributions&theme=dark)
+[![NeuralCode](https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariSwati&repo=neuralcode&theme=dark)](https://github.com/ChaudhariSwati/neuralcode)
 
 
 ## ✍️ Random Dev Quote
