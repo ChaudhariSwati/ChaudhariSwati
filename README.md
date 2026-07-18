@@ -3,7 +3,7 @@ A passionate Software engineer || MERN stack sev || DSA || Gen AI
 
 Email Me 👉 ✉️ swatidchaudhary17@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Enter your project info here
+🔭 I’m currently working on:LIneWise.
 🌱 I’m currently learning: I am actively learning DSA and AI tools as well building Gen AI application and                              MERN stack based platforms
 👯 I’m looking to collaborate on: Open-source MERN stack projects or AI-driven web tools.
 🤔 I’m looking for help with:Mastering complex system design for scalable applications.
